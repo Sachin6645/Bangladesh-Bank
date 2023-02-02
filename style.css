@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cont{
+    width: 1200px;
+    margin: 0 auto;
+}
+.header{
+    height: 50px;
+    line-height: 30px;
+    background-color: #006666;
+    color:white;
+}
+.menu{
+    background-color: #ddd;
+}
+.menu li a{
+    text-decoration: none;
+    color: #006666;
+    padding-left: 30px;
+}
+.green_card{
+    
+    border-radius: 10%;
+    border: 1px solid #ddd;
+    border-top: 5px solid green;
+}
+.red_card{
+    border-radius: 10%;
+    border: 1px solid #ddd;
+    border-top: 5px solid red;
+}
+.c1{
+    border: 1px solid red;
+    background-color: darkgray;
+}
+.foot{
+    background-color: #ddd;
+    border: 1px solid darkgrey;
+    border-top: 3px solid green;
+}
